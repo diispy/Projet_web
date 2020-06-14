@@ -1,0 +1,98 @@
+h1
+{
+    font-size: 60px;
+    text-decoration: underline;
+    color: white;
+    box-shadow: 6px 6px 10px black;
+    background-color: #be1010;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+.image
+{
+    width: 50%;
+    height: 375px;
+    text-align: center;
+    padding : 135px;
+    margin-top : -120px;
+}
+.home
+{
+    position: absolute;
+    width: 50px;
+    left: 50%;
+}
+body
+{
+    background-color: lightgray;
+
+
+}
+.Principe
+{
+    margin-top: 50px;
+    display : flex;
+    flex-wrap: nowrap;
+}
+.name
+{
+    color: rgba(24, 9, 241, 0.801);
+    text-decoration: underline royalblue;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.name:hover
+{
+    background-color : #f80303;
+}
+.description
+{
+    text-align: center;
+    font-size : 25px;
+    margin-top: -100px;
+    font-family: Georgia, serif;
+}
+.gauche
+{
+    width: 33%;
+    border: 3px solid #f50b0b;
+    box-shadow: 6px 6px 10px black;
+    margin: 27px;
+    border-radius: 10px 100px;
+}
+.milieu
+{
+    width: 33%;
+    border: 3px solid #f50b0b;
+    box-shadow: 6px 6px 10px black;
+    margin: 27px;
+    border-radius: 10px 100px;
+}
+.droite
+{
+    width: 33%;
+    border: 3px solid #f50b0b;
+    box-shadow: 6px 6px 10px black;
+    margin: 27px;
+    border-radius: 10px 100px;
+}
+.facebook
+{
+    border-radius: 50%;
+    width: 20%;
+    margin-left: 30px;
+}
+.Reseaux
+{
+    margin-left: 10px;
+    font-size: 25px;
+    text-decoration: underline #f80303;
+    color: rgba(250, 17, 17, 0.822);
+}
+.insta
+{
+    border-radius: 50%;
+    width: 20%;
+    margin-left: 30px;
+}
